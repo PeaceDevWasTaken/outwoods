@@ -1,2 +1,2 @@
-# outwoods
-website for outwoods
+# Web-Template
+Blank website structure 
